@@ -1,6 +1,6 @@
 # Unit Converter
 
-This repository contains a simple unit converter application built using HTML, CSS, and Javascript. The app allows users to quickly convert between various units of measurement. It’s a straightforward project designed to improve my understanding of web development fundamentals.
+This repository contains a simple unit converter application built using HTML, CSS, and JavaScript. The app allows users to quickly convert between various units of measurement. It’s a straightforward project designed to improve my understanding of web development fundamentals.
 
 ## Getting Started
 
