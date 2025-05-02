@@ -8,7 +8,8 @@ body {
 }
 
 .hero {
-    background-color: #6943FF;
+    background: #ac0cc4;
+    background: radial-gradient(circle, rgba(172, 12, 196, 1) 0%, rgba(148, 187, 233, 1) 100%);
     font-size: 30px;
     font-weight: 800;
 }
@@ -18,9 +19,9 @@ body {
     margin: 20px auto;
     width: 260px;
     height: 170px;
-    border: 2px solid #B295FF;
+    border: 2px solid #FFFFFF;
     border-radius: 5px;
-    background: #6943FF;
+    background: #ac0cc4;
     font-size: 120px;
     text-align: center;
     color: #FFFFFF;
